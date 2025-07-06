@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 'moisturizer-salicylic',
             name: 'Moisturizer Salicylic',
-            image: 'images/moisturizer salicylic.jpg',
+            image: 'images/moisturizer salicylic .jpg',
             price: 359, // Updated price
             description: 'Hydrating moisturizer with salicylic acid for acne-prone skin, keeps skin clear and supple.',
             quantity: '50ml',
