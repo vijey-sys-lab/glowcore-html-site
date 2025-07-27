@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 'hair-serum',
             name: 'Advanced Hair Regrow Serum',
             images: ['images/hair serum.jpg'], // Removed extra images
-            price: 959,
+            price: 699,
             description: 'A potent serum formulated with Redensyl, Rosemary, and Rice Water to promote hair regrowth and strengthen follicles.',
             quantity: '30ml',
             rating: 4.4,
