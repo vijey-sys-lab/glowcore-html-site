@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 'hair-serum',
             name: 'Advanced Hair Regrow Serum',
             images: ['images/hair serum.jpg'], // Removed extra images
-            price: 699,
+            price: 959,
             description: 'A potent serum formulated with Redensyl, Rosemary, and Rice Water to promote hair regrowth and strengthen follicles.',
             quantity: '30ml',
             rating: 4.4,
@@ -964,4 +964,5 @@ document.addEventListener('DOMContentLoaded', () => {
     renderCategoryFilters(); // Render category filter buttons
     displayProducts('all'); // Display all products initially
     console.log('Initial page load complete.');
+
 });
